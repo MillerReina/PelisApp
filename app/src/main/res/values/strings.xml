@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PelisApp</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Peliculas más populares</string>
+    <string name="error_fetch_movies">Revisa tu conexion de internet</string>
+    <string name="top_rated">¡Más votadas!</string>
+    <string name="highest_rated_movies">Más votadas en todo el tiempo</string>
+    <string name="upcoming">¡De lanzamiento!</string>
+    <string name="stay_updated">Actualizadas hasta la fecha</string>
+
+    <string name="enter_email">Ingrese correo electronico</string>
+    <string name="enter_password">Ingrese una contraseña</string>
+    <string name="register">Registrarme</string>
+    <string name="login">Iniciar sesión</string>
+
+</resources>
